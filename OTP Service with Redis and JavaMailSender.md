@@ -57,6 +57,8 @@ Let me know if you'd like me to guide you through configuring the service code o
 
 ## 🔧 **Main Technologies and Tools I Used for OTP Sending and Verification:**
 
+Redis download link https://github.com/microsoftarchive/redis/releases
+
 | **Tool / Library**                         | **Purpose**                                                    |
 |-------------------------------------------|---------------------------------------------------------------|
 | **Spring Boot**                           | Main framework for building the backend service.              |
